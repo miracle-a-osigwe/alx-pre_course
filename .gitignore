@@ -1,3 +1,0 @@
-$ cat .gitignore
-#exclude any file starting with ~
-~
